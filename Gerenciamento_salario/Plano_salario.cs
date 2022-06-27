@@ -57,8 +57,6 @@ namespace Gerenciando_salario
             }
 
         }
-        //return reajusteSalarial;
-
         public void ReajusteSalario()
         {
             Console.WriteLine($"Nome do funcionário: {nome}");
